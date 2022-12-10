@@ -36,18 +36,21 @@ footer {
 h1 {
     text-align: center;
 }
-
+h2 {
+    color: rgb(4, 91, 94);
+}
 h5 {
     color: #777;
 }
 
 input,
 select {
-    width: 98%;
+    width: 95%;
     display: inline-block;
     border-radius: 1em;
     padding: 5px 1em;
     border: 2px solid rgb(43, 117, 119);
+    margin-bottom: 1em;
 }
 
 legend {
